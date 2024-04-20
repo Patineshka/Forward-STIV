@@ -12,6 +12,10 @@
   ~ Patina Gadzhieva
 </div>
 
-## Business ideas:
+## Business ideas №1:
 * A template for increasing employee motivation and efficiency
     * [STIV_Reward_system](https://docs.google.com/document/d/1fVD05gVLwyr2VAlFQSx6OoY2Id7QUxb5h3NdTvrj59Y/edit)
+  
+## Business ideas №2:
+* Burning meme coins depending on the outcome of the events to which they were linked
+    * [STIV_Betting_burn]()
