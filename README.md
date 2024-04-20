@@ -18,4 +18,4 @@
   
 ## Business ideas №2:
 * Burning meme coins depending on the outcome of the events to which they were linked
-    * [STIV_Betting_burn]()
+    * [STIV_Betting_burn](https://docs.google.com/document/d/13U9ayck8A3IGyI_10-RUWrE6VRxuhAtKPUhskDOaLVc/edit)
