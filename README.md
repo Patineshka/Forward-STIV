@@ -14,8 +14,8 @@
 
 ## Business idea №1:
 * A template for increasing employee motivation and efficiency
-    * [STIV_Reward_system](https://docs.google.com/document/d/1fVD05gVLwyr2VAlFQSx6OoY2Id7QUxb5h3NdTvrj59Y/edit)
+    * [Reward_system_STIV_Forward_Hacking_Web3](https://docs.google.com/document/d/1fVD05gVLwyr2VAlFQSx6OoY2Id7QUxb5h3NdTvrj59Y/edit)
   
 ## Business idea №2:
 * Burning meme coins depending on the outcome of the events to which they were linked
-    * [STIV_Betting_burn](https://docs.google.com/document/d/13U9ayck8A3IGyI_10-RUWrE6VRxuhAtKPUhskDOaLVc/edit)
+    * [Betting_burn_STIV_Forward_Hacking_Web3](https://docs.google.com/document/d/13U9ayck8A3IGyI_10-RUWrE6VRxuhAtKPUhskDOaLVc/edit)
